@@ -1,0 +1,28 @@
+{
+  "name": "toastnotice",
+  "version": "1.0.0",
+  "title": "ToastNotice",
+  "description": "A robust, customizable notification library",
+  "bugs": "http://github.com/Alimir/ToastNoticeJS/issues",
+  "homepage": "http://github.com/Alimir/ToastNoticeJS",
+  "docs": "http://github.com/Alimir/ToastNoticeJS",
+  "download": "http://github.com/Alimir/ToastNoticeJS",
+  "author": {
+    "name": "Ali Mir"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "notify",
+    "notification",
+    "prompt",
+    "popup"
+  ],
+  "dependencies": {
+    "jquery": ">=1.8"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "ToastNotice.js",
+  "name": "toastnotice",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ali Mir"
+  },
+  "contributors": [
+    {
+      "name": "Ali Mirzaei",
+      "url": "http://github.com/Alimir/",
+      "email": "alimir71@gmail.com"
+    }
+  ],
+  "homepage": "http://github.com/Alimir/ToastNoticeJS",
+  "license": "MIT",
+  "main": "dist/notify.js",
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "jshint ./dist/*.js"
+  },
+  "peerDependencies": {
+    "jquery": ">=1.11.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.8.0"
+  },
+  "keywords": [
+    "notify",
+    "notification",
+    "prompt",
+    "popup",
+    "jquery-plugin"
+  ]
+}

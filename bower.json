@@ -1,0 +1,14 @@
+{
+  "name": "toastnotice",
+  "version": "1.0.0",
+  "homepage": "http://github.com/Alimir/ToastNoticeJS",
+  "authors": [
+    "Ali Mir"
+  ],
+  "description": "A simple, versatile notification library",
+  "main": "dist/toastnotice.js",
+  "keywords": [
+    "notification"
+  ],
+  "license": "MIT"
+}
